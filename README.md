@@ -7,6 +7,8 @@ The button will execute a Retrofit that queries the Google Books API to find mul
 
 When user clicks on one of the result items in the RecyclerView, it will open a SecondActivity titled same as the chosen book and show more of the data such as larger book image, categories, description, publisher, published date, page count, ISBN_10 and ISBN_13 as TextViews, which user can scroll down in ScrollView.
 
+Updated the dark version of application's theme.
+
   End point: 
   GET https://www.googleapis.com/books/v1/volumes
 
