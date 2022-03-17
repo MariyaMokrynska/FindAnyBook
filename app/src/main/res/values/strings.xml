@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindAnyBook</string>
+    <string name="instructions">Enter book title or author name</string>
+    <string name="button_text">Search the books</string>
+    <string name="input_hint">Book Title</string>
+    <string name="activity2_name">Book details</string>
+</resources>
